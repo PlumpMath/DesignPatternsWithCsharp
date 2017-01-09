@@ -3,7 +3,7 @@
 namespace Abstract.Structural.Test
 {
     [TestClass]
-    public class CreateAndRunAbstractFactory
+    public class CreateAndRunAbstractFactoryTest
     {
         [TestMethod]
         public void CreateAndRunAbstractFactory()
